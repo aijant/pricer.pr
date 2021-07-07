@@ -31,6 +31,11 @@ const router = new Router({
       path: '/contact',
       name: 'Contact',
       component: () => import('@/views/Contact')
+    },
+    {
+      path: '/recruit',
+      name: 'Recruit',
+      component: () => import('@/views/Recruit')
     }
   ]
 })
