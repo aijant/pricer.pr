@@ -78,7 +78,7 @@
             text: this.$t('nav.companyInfo')
           },
           {
-            to: '/',
+            to: '/recruit',
             text: this.$t('nav.recruit')
           }
         ]

@@ -82,7 +82,7 @@ export default {
         ]
       }
     ],
-     btn: 'List of Services'
+    btn: 'List of Services'
   },
   about: {
     title: 'Company Information',
@@ -91,7 +91,7 @@ export default {
       home: 'Home',
       contact: 'Company Information'
     },
-     info: {
+    info: {
       companyName: {
         key: 'Company Name',
         value: 'PRICER BISHKEK LLC'
@@ -133,5 +133,15 @@ export default {
         value: '2019 August Start of the Pricer Bishkek'
       }
     }
+  },
+  recruit: {
+    title: 'Recruit',
+    link: {
+      home: 'Home',
+      recruit: 'Recruit'
+    },
+    info: 'It is a company that asks you "what you want to do?"',
+    content: 'Pricer is a company that constantly sets new goals for itself. If you have something that you want to try, just do it. Pricer is a place where everyone supports each other and develops together!',
+    message: 'There are no vacancies now'
   }
 }
