@@ -24,7 +24,7 @@
           <v-btn
             color="primary"
             class="ml-16 mr-3 v-btn--tile v-size--large right contact-footer"
-            to="/projects"
+            to="/contactUs"
           >
             {{ $t('contact') }}
           </v-btn><br>

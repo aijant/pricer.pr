@@ -143,5 +143,27 @@ export default {
     info: 'It is a company that asks you "what you want to do?"',
     content: 'Pricer is a company that constantly sets new goals for itself. If you have something that you want to try, just do it. Pricer is a place where everyone supports each other and develops together!',
     message: 'There are no vacancies now'
+  },
+  contactUs: {
+    title: 'Contact us',
+    link: {
+      home: 'Home',
+      contactUs: 'Contact us'
+    },
+    info: "Please don't hesitate to get in touch.",
+    content: 'If you have any questions or concerns, or if you would like to request a consultation, please feel free to contact us. If your request is urgent, please call us or make a note about it in the "Content of inquiry" line.',
+    tel: 'Tel: +996 (312) 988999',
+    time: 'Office hours: Mon-Fri 7.30 AM-16.30 PM',
+    fullName: 'Full Name',
+    companyName: 'Company name',
+    email: 'Email',
+    phone: 'Phone',
+    contentOfInquiry: 'Content of inquiry',
+    confirmation: {
+      title: 'Confirmation',
+      content: 'Personal Information Handling Agreement.Be sure to read this “Personal Information Handling Agreement”'
+    },
+    isAgree: 'I agree with the processing of personal data',
+    submit: 'Submit'
   }
 }

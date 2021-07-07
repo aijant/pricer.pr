@@ -34,7 +34,7 @@
       <v-btn
         color="primary"
         class="ml-12 mr-3 v-btn--tile"
-        to="/projects"
+        to="/contactUs"
       >
         {{ $t('contact') }}
       </v-btn>
